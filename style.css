@@ -4,15 +4,14 @@
     margin: 0;
     border: 0;
     text-decoration: none;
-    color: black;
+    color:#FFCC00 ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body, header {
-    background-color: whitesmoke;
+    background-color: black;
 }
 
-/* Header */
 header {
     padding: 2vh 10vw;
     display: flex;
@@ -28,6 +27,7 @@ header img {
 header h1 {
     font-size: 2rem;
     color: #333;
+    
 }
 
 header nav {
@@ -54,7 +54,8 @@ header nav a:hover {
 /* Inhoudssecties */
 section {
     padding: 5vh 10vw;
-    background-color: #FFCC00;
+    color: #FFCC00;
+    background-color: purple;
     margin-bottom: 5vh;
 }
 
