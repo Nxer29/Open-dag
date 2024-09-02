@@ -137,6 +137,7 @@ footer .footer-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    gap: 2vw;
 }
 
 /* Media queries voor kleinere schermen */
