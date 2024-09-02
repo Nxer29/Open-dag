@@ -20,8 +20,9 @@ header {
     align-items: center;
 }
 
-header img.logo {
-    height: 5vh;
+header img {
+    max-width: 10%;
+    height: auto;
 }
 
 header h1 {
