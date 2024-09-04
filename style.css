@@ -170,4 +170,16 @@ footer .footer-container {
 .tekst{
     text-align: center;
     color: #FFCC00;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.blok1{
+    max-width: 1100px;
+    max-height: 750px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 20px;
 }
