@@ -174,6 +174,24 @@ footer .footer-container {
         margin-left: 0px;
         margin-right: 0px;
     }
+
+    .blok{
+        max-width: 375px;
+        max-height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .blok1{
+        max-width: 375px;
+        max-height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
     
 
     header nav ul {
