@@ -168,6 +168,12 @@ footer .footer-container {
         align-items: center;
     }
 
+    .tekst{
+        text-align: center;
+        color: #FFCC00;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
     
 
     header nav ul {
