@@ -168,6 +168,8 @@ footer .footer-container {
         align-items: center;
     }
 
+    
+
     header nav ul {
         flex-direction: column;
         gap: 1vh;
